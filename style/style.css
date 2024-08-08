@@ -240,3 +240,38 @@ font-family: Inter;
 font-size: 0.8125rem;
 font-weight: 400;
 }
+
+/* container-1 */
+.container-1{
+  max-width: 1440px;
+  min-height: 200px;
+  margin: 0 auto;
+}
+.container-1{
+  padding: 100px 385px 58px 350px;
+  background: rgb(0, 0, 0);
+}
+.container-1{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  }
+.content-title{
+  position: static;
+  width: 600px;
+  height: 58px;
+  color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 48px;
+font-weight: 900;
+}
+.content-description{
+  position: static;
+  width: 600px;
+  height: 48px;
+  margin-top: 14px;
+  color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+}
