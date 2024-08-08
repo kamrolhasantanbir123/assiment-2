@@ -14,3 +14,55 @@
     font-weight: 400;
     font-style: normal;
   }
+  /* shared styles */
+  .display-flex{
+    display: flex;
+  }
+   /* dark 02 */
+  .text-gray{
+    /* color: rgb(255, 255, 255) */
+  }
+
+  /* dark 03 */
+  .text-light-gray{
+   color: rgba(255, 255, 255, 0.5);
+  }
+  /* dark 04 */
+  .text-blue-gray{
+    color: rgba(239, 237, 232, 0.65);
+  }
+  /* dark 05 */
+  .text-light2-gray{
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .bg-light{
+    background: linear-gradient(180.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 100%);
+  }
+
+  /* header related styles */
+
+  .brand{
+    margin-left: 190px;
+  }
+.navbar{
+    margin-top: 57px;
+   justify-content: space-between; 
+}
+
+.nav-item{
+   list-style: none;
+   margin-right: 47px;
+}
+.nav-link{
+    text-decoration: none;
+    font-weight: 500;
+}
+.nav-links{
+    margin-right: 190px;
+}
+
+.navbar, .banner{
+  max-width: 1440px;
+  margin: 0 auto;
+}
