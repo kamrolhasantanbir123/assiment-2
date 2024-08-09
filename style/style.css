@@ -39,8 +39,12 @@
   /* .bg-light{
     background: linear-gradient(180.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 100%);
   } */
+  
   .bg-light{
-    background: linear-gradient(-10.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 300%);
+    max-width: 1440px;
+  }
+  .bg-light{
+    background: linear-gradient(-10.00deg, rgb(0, 0, 0),rgba(119, 119, 119, 0) 900%);
   }
 
   /* header related styles */
@@ -240,4 +244,40 @@ font-family: Inter;
 font-size: 0.8125rem;
 font-weight: 400;
 }
+.container-1{
+  width: 1216px;
+  height: 210px;
+  margin: 0 auto;
+  }
+
+.container-1{
+  padding: 100px 385px 58px 350px;
+  background: rgb(0, 0, 0);
+}
+.container-1{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  }
+.content-title{
+  position: static;
+  width: 600px;
+  height: 58px;
+  color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 48px;
+font-weight: 900;
+}
+.content-description{
+  position: static;
+  width: 600px;
+  height: 48px;
+ }
+ .content-description{
+  margin-top: 14px;
+  color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+ }
   
