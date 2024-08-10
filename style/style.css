@@ -368,6 +368,35 @@ height: 312px;
 background: url(4);
  }
 
+ /* container-4 */
+ .container-4{
+  width: 1216px;
+  height: 180px;
+  margin: 0 auto;
+  background: rgb(0, 0, 0);
+  padding: 20px 20px 20px 150px;
+ }
+
+ .container-4 h5{
+  position: static;
+width: 573px;
+height: 58px;
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 48px;
+font-weight: 900;
+ }
+
+ .container-4 p{
+  position: static;
+width: 671px;
+height: 48px;
+margin-top: 14px;
+color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+ }
 
 
   
