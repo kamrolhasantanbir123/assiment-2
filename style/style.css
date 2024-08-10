@@ -397,6 +397,96 @@ font-family: Inter;
 font-size: 14px;
 font-weight: 400;
  }
+ /* container-5 */
+
+ .container-5{
+  width: 1216px;
+  height: 490px;
+  margin: 0 auto;
+  background: rgb(0, 0, 0);
+ }
+
+ .row{
+  width: 50px;
+  height: 100px;
+  margin-left: 160px;
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+  flex-direction: row;
+  }
+  .row-1{
+width: 260px;
+height: 190px;
+color: #06FFD280;
+  }
+  .row-2{
+    width: 400px;
+    height: 190px;
+    margin-left: -170px;
+    
+  }
+  .row-3{
+    width: 205px;
+    height: 190px;
+  }
+  .row-4{
+    width: 370px;
+    height: 225px;
+    margin-top: -4px;
+  }
+  .row-5{
+    width: 200px;
+    height: 225px;
+    margin-top: -4px;
+  }
+  .row-6{
+    width: 235px;
+    height: 225px;
+    margin-left: -30px;
+    margin-top: -4px;
+  }
+
+  .banner-card-4{
+    position: absolute;
+width: 176px;
+height: 17px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+  }
+  .banner-card-4{
+    margin-left: 170px;
+    margin-top: 37px;
+     color: #06FFD280;
+  }
+  .banner-card-5{
+    margin-left: 390px;
+    margin-top: -90px;
+    color: #FF00004D
+  }
+  .banner-card-6{
+    margin-left: 770px;
+   margin-top: 85px;
+   color: #00000080
+  }
+  .banner-card-7{
+    margin-left: 380px;
+    margin-top: 70px;
+    color: #00000080
+  }
+  .banner-card-8{
+    margin-left: 550px;
+    margin-top: 70px;
+    color: #42FF004D
+  }
+  .banner-card-9{
+    margin-left: 750px;
+    margin-top: -25px;
+    color: #0047FF4D
+  }
+  
+  
 
 
   
