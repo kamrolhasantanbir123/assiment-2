@@ -307,6 +307,7 @@ margin-top: 6px;
  .container-3{
   width: 1216px;
   height: 371px;
+  border: 25px solid black; 
   margin: 0 auto;
   border-radius: 1px;
 
@@ -341,7 +342,7 @@ font-weight: 400;
   .content-3 button{
     position: static;
 width: 81px;
-height: 22px;
+height: 20px;
 color: rgb(255, 255, 255);
 font-family: Inter;
 font-size: 18px;
@@ -355,12 +356,12 @@ padding: 16px 40px 16px 40px;
 border-radius: 42px;
 
 background: rgb(230, 83, 60);
-margin-top: 34px;
+margin-top: 25px;
   }
  .content-3-img{
   position: absolute;
 width: 366px;
-height: 312px;
+height: 265px;
  }
  .content-3-img{
   border-radius: 18px;
@@ -513,7 +514,9 @@ font-weight: 500;
   font-family: Inter;
   font-size: 14px;
   font-weight: 400;
-  
+}
+
+
 
   
 
