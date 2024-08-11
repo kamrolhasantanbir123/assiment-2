@@ -645,6 +645,113 @@ margin-top: 40px;
   padding-left: 90px;
 }
 
+/* container-9 */
+.container-9{
+  width: 1216px;
+  height: 692px;
+  border: 1px solid red;
+  background: rgb(0, 0, 0);
+}
+.content-9{
+  position: static;
+width: 1020px;
+height: 576px;
+margin: 1px 20px 5px 110px;
+  border-radius: 18px;
+background: rgba(255, 255, 255, 0.1);
+}
+
+.content-img-9{
+  position: static;
+width: 300px;
+  height: 270px;
+  border-radius: 18px;
+margin-left: 28px;
+margin-top: 10px;
+padding: auto;
+background: rgba(0, 0, 0, 0.2),url(image);
+}
+
+/* banner-card-41{
+  height: 200px;
+} */
+
+.span{
+  width: 176px;
+height: 17px;
+font-family: Inter;
+font-size: 10px;
+font-weight: 500;
+opacity: 0.7;
+}
+.banner-card-41{
+  position: absolute;
+width: 176px;
+height: 17px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+margin-left: 170px;
+  margin-top: -357px;
+  color: #ffff;
+}
+.banner-card-42{
+  position: absolute;
+width: 176px;
+height: 17px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+margin-left: 500px;
+  margin-top: -357px;
+  color: #ffff;
+}
+.banner-card-43{
+  position: absolute;
+width: 176px;
+height: 17px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+margin-left: 830px;
+  margin-top: -357px;
+  color: #ffff;
+}
+.banner-card-44{
+  position: absolute;
+width: 176px;
+height: 17px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+margin-left: 170px;
+  margin-top: -67px;
+   color: #ffff;
+}
+.banner-card-45{
+  position: absolute;
+width: 176px;
+height: 17px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+margin-left: 500px;
+  margin-top: -67px;
+  color: #ffff;
+}
+.banner-card-46{
+  position: absolute;
+width: 176px;
+height: 17px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+margin-left: 840px;
+  margin-top: -67px;
+  color: #ffff;
+}
+
+
 
 
 
