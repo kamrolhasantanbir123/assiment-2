@@ -493,6 +493,7 @@ font-weight: 500;
     margin: 0 auto;
     background: rgb(0, 0, 0);
     padding: 1px 40px 60px 330px;
+    
    }
   
    .container-4 h5{
@@ -515,6 +516,124 @@ font-weight: 500;
   font-size: 14px;
   font-weight: 400;
 }
+
+.container-6{
+  width: 574px;
+  height: 487px;
+  padding: 44px 185px;
+  background: rgb(34, 34, 34);
+}
+
+.description612{
+  display: grid;
+  grid-template-columns: 160px 160px;
+  
+  padding-top: 52px;
+}
+
+.description-614{
+  border: 1px solid;
+  padding-left: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.description-61{
+  position: static;
+width: 443px;
+height: 34px;
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 28px;
+font-weight: 900;
+}
+
+.description613{
+height: 19px;
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+}
+.description613{
+  border: 1px solid;
+  padding-left: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+.description-614{
+  height: 40px;
+  color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+}
+
+.container-7{
+  width: 644px;
+  height: 487px;
+  margin-top: -487px;
+  margin-left: 572px;
+  background: rgb(34, 34, 34);
+  padding-top: 40px;
+}
+.description-62{
+  position: static;
+  margin-top: 25px;
+  color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+}
+.mains{
+  width: 282.5px;
+  height: 50px;
+  display: grid;
+  grid-template-columns: repeat(2, 282.5px);
+  padding-top: 34px;
+  gap: 12px;
+  
+}
+.main{
+width: 282.5px;
+height: 50px;
+padding: 12px 40px 12px 20px;
+border-radius: 8px;
+background: rgba(255, 255, 255, 0.1);
+}
+.main-1{
+  color: aliceblue;
+}
+.kamrol{
+  width: 575px;
+  height: 50px;
+}
+
+.kamrol-2{
+  position: static;
+width: 81px;
+height: 20px;
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 18px;
+font-weight: 600;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.kamrol-2{
+  position: static;
+width: 224px;
+height: 54px;
+padding: 16px 40px 16px 40px;
+border-radius: 42px;
+
+background: rgb(230, 83, 60);
+margin-top: 40px;
+}
+
+
 
 
 
