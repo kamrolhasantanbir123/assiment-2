@@ -632,6 +632,19 @@ border-radius: 42px;
 background: rgb(230, 83, 60);
 margin-top: 40px;
 }
+.container-8{
+  width: 1216px;
+  height: 230px;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  padding: 50px 290px;
+  
+}
+.container-8 h5{
+  padding-left: 90px;
+}
+
 
 
 
